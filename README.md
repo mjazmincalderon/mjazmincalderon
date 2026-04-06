@@ -17,8 +17,8 @@ Soy estudiante de Ingeniería de Sistemas en la UTN FRRe, orientada a la resoluc
 - **Herramientas:** Git, GitHub, Vite
 
 ## 🚀 Proyectos Destacados
-- **[Kensei Web](kenseiway-web.netlify.app):** Landing page corporativa para una consultora de transformación organizacional y normas ISO 9001. Desarrollada con React y Tailwind CSS V4. Cuenta con un diseño UI/UX minimalista de alta calidad, integrando formularios de contacto interactivos y smooth scrolling. [Ver Repositorio](acá-ponés-el-link-del-repo-de-kensei)
+ kenseiway-web.netlify.app:** Landing page corporativa para una consultora de transformación organizacional y normas ISO 9001. Desarrollada con React y Tailwind CSS V4. Cuenta con un diseño UI/UX minimalista de alta calidad, integrando formularios de contacto interactivos y smooth scrolling. [Ver Repositorio](acá-ponés-el-link-del-repo-de-kensei)
 
 ## 📫 Cómo contactarme
-- **LinkedIn:** [macarena jazmin calderon](linkedin.com/in/macarena-jazmín-calderón-19216935a)
+- **LinkedIn:** linkedin.com/in/macarena-jazmín-calderón-19216935a
 - **Email:** mjazmincalderon@gmail.com
