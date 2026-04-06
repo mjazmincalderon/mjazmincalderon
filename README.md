@@ -5,7 +5,7 @@ Soy estudiante de Ingeniería de Sistemas en la UTN FRRe, orientada a la resoluc
 ## 💻 Sobre mí
 - ⚙️ Tengo experiencia práctica en **desarrollo backend** y **análisis de datos**.
 - 🚀 Mi stack tecnológico actual abarca lenguajes como **Python**, **JavaScript** y **C#**.
-- 📊 Aplico mis conocimientos académicos (algoritmos, cálculo, estadística y lógica) para crear soluciones robustas, acompañadas de un **inglés intermedio** que me permite moverme fluído en la documentación técnica.
+- 📊 Aplico mis conocimientos académicos (algoritmos, cálculo, estadística y lógica) para crear soluciones robustas, acompañadas de un **inglés intermedio** que me permite moverme fluida en la documentación técnica.
 - 🏋️‍♀️ Fuera del código, la disciplina es clave en mi día a día: entreno fuerza y me mantengo en constante aprendizaje.
 
 ## 🛠️ Tecnologías y Herramientas
@@ -17,8 +17,8 @@ Soy estudiante de Ingeniería de Sistemas en la UTN FRRe, orientada a la resoluc
 - **Herramientas:** Git, GitHub, Vite
 
 ## 🚀 Proyectos Destacados
- kenseiway-web.netlify.app:** Landing page corporativa para una consultora de transformación organizacional y normas ISO 9001. Desarrollada con React y Tailwind CSS V4. Cuenta con un diseño UI/UX minimalista de alta calidad, integrando formularios de contacto interactivos y smooth scrolling. [Ver Repositorio](acá-ponés-el-link-del-repo-de-kensei)
+- **[Kensei Way Web](https://kenseiway-web.netlify.app/):** Landing page corporativa para una consultora de transformación organizacional y normas ISO 9001. Desarrollada con React y Tailwind CSS V4. Cuenta con un diseño UI/UX minimalista de alta calidad, integrando formularios de contacto interactivos y smooth scrolling. [Ver Repositorio](acá-ponés-el-link-del-repo-de-kensei)
 
 ## 📫 Cómo contactarme
-- **LinkedIn:** linkedin.com/in/macarena-jazmín-calderón-19216935a
+- **LinkedIn:** [Macarena Jazmín Calderón](https://www.linkedin.com/in/macarena-jazmín-calderón-19216935a)
 - **Email:** mjazmincalderon@gmail.com
